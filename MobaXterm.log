@@ -1,0 +1,690 @@
+
+[16:01.09.000]  Starting MobaXterm
+[16:01.09.000]  
+[16:01.09.000]  BEGIN AdaptToGlobalDPI
+[16:01.09.000]      AdaptToGlobalDPI: DPI=96
+[16:01.09.000]      BEGIN LaunchLoadFlatIconsThreads
+[16:01.09.000]          BEGIN WaitForLoadFlatIconsThreads
+[16:01.09.167]          END WaitForLoadFlatIconsThreads
+[16:01.09.167]          BEGIN WaitForGenerateStdListThreads
+[16:01.09.167]          END WaitForGenerateStdListThreads
+[16:01.09.167]          Loading flat icons 16
+[16:01.09.167]          Loading flat icons 22
+[16:01.09.167]          Loading flat icons 64
+[16:01.09.167]          Loading extensions icons
+[16:01.09.167]      END LaunchLoadFlatIconsThreads
+[16:01.09.167]  END AdaptToGlobalDPI
+[16:01.09.167]  
+[16:01.09.167]  BEGIN AddMobaConsoleFont
+
+[16:01.09.816]  END AddMobaConsoleFont
+[16:01.09.816]  
+[16:01.09.817]  
+[16:01.09.817]  BEGIN MobaProfileDir detection
+[16:01.09.817]      BEGIN GetProfileDirScore(C:\Users\munna\AppData\Roaming\)
+
+
+[16:01.11.073]          "C:\Users\munna\AppData\Roaming\" seems to be writeable
+[16:01.11.073]          "C:\Users\munna\AppData\Roaming\MobaXterm\MobaXterm.ini" does not exist
+[16:01.11.073]          "C:\Users\munna\AppData\Roaming\" is not a network path
+[16:01.11.073]      END GetProfileDirScore(C:\Users\munna\AppData\Roaming\): 28
+[16:01.11.073]      BEGIN GetProfileDirScore(C:\Users\munna\DOCUME~1\)
+[16:01.11.404]          "C:\Users\munna\DOCUME~1\" seems to be writeable
+[16:01.11.404]          "C:\Users\munna\DOCUME~1\MobaXterm\MobaXterm.ini" does not exist
+[16:01.11.404]          "C:\Users\munna\DOCUME~1\" is not a network path
+[16:01.11.404]      END GetProfileDirScore(C:\Users\munna\DOCUME~1\): 28
+[16:01.11.404]      BEGIN GetProfileDirScore(C:\Users\munna\AppData\Local\)
+[16:01.11.742]          "C:\Users\munna\AppData\Local\" seems to be writeable
+[16:01.11.742]          "C:\Users\munna\AppData\Local\MobaXterm\MobaXterm.ini" does not exist
+[16:01.11.742]          "C:\Users\munna\AppData\Local\" is not a network path
+[16:01.11.742]      END GetProfileDirScore(C:\Users\munna\AppData\Local\): 28
+[16:01.11.742]  END MobaProfileDir detection
+[16:01.11.742]  
+[16:01.11.742]  --> Selected MobaProfile directory: "C:\Users\munna\AppData\Roaming\"
+[16:01.11.742]  
+[16:01.11.744]  - MobaXterm version: 22.1 Build 4888
+[16:01.11.744]  - Command line: "C:\Users\munna\Desktop\MobaXterm_Personal_22.1.exe"
+[16:01.11.744]  - Date: 2022-12-24
+[16:01.11.744]  - Windows version number: 10.0.2.19044.
+[16:01.11.744]  - Windows version name: Windows 10
+[16:01.11.744]  - Windows full name: Windows 10 Home 2009 build 19044
+[16:01.11.744]  - Windows architecture: 64-bits
+[16:01.11.747]  - User language: English (United States)
+[16:01.11.747]  - CPU architecture: x86
+[16:01.11.747]  - Detected DPI: 96
+[16:01.11.747]  - Current DPI: 96
+[16:01.11.747]  - CurDir: C:\Users\munna\Desktop\
+[16:01.11.747]  - PersonalDir: C:\Users\munna\DOCUME~1\
+[16:01.11.747]  - AppDataDir: C:\Users\munna\AppData\Roaming\
+[16:01.11.747]  - LocalAppDataDir: C:\Users\munna\AppData\Local\
+[16:01.11.747]  - DesktopDir: C:\Users\munna\Desktop\
+[16:01.11.747]  - CustomProfileDir: 0
+[16:01.11.747]  - MobaProfileDir: C:\Users\munna\AppData\Roaming\
+[16:01.11.747]  - Free space in MobaProfileDir folder: 326777MB
+[16:01.11.747]  - TempDir: C:\Users\munna\AppData\Local\Temp\
+[16:01.11.747]  - Free space in TempDir folder: 326777MB
+[16:01.11.747]  - Monitor #0: 1366x768
+[16:01.11.747]  - User name: munna
+[16:01.11.747]  - Computer name: LAPTOP-OPC1DSH8
+[16:01.11.747]  - Current Windows locale: 1033
+[16:01.11.747]  - Windows beta unicode support not set
+[16:01.11.747]  - Uptime: 37 days, 22:40:53
+[16:01.11.747]  - Windows PATH: C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\munna\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\munna\AppData\Local\Programs\Python\Python310\;C:\Users\munna\AppData\Local\Microsoft\WindowsApps;
+[16:01.11.748]  - WSL PATH: C:\WINDOWS\Sysnative\wsl.exe
+[16:01.11.748]  
+[16:01.11.748]  BEGIN Form1.FormCreate
+[16:01.11.748]      Detecting installed/portable version
+[16:01.11.748]      --> portable version
+[16:01.11.748]      
+[16:01.11.750]      Detecting IniSettings
+[16:01.12.053]      MobaXterm will take its configuration from file "C:\Users\munna\Desktop\MobaXterm.ini".
+[16:01.12.053]      (selected ini file seems to be writeable)
+[16:01.12.053]      --> IniSettings= C:\Users\munna\Desktop\MobaXterm.ini
+[16:01.12.053]      
+[16:01.12.315]      
+[16:01.12.315]      We are using the "New" SSH engine
+[16:01.12.315]      
+[16:01.12.315]      
+[16:01.12.315]      Detecting ModeIni
+[16:01.12.315]      --> ModeIni= true
+[16:01.12.315]      
+[16:01.12.315]      Detecting CygUtils
+[16:01.12.315]      CygUtils NOT PRESENT
+[16:01.12.315]      
+[16:01.12.315]      Detecting MobaXVTDir
+[16:01.12.392]      BEGIN IsFolderRW(C:\Users\munna\AppData\Local\Temp\Mxt221)
+
+
+[16:01.15.193]      END IsFolderRW(C:\Users\munna\AppData\Local\Temp\Mxt221) --> OK
+[16:01.15.194]      --> MobaXVTDir= C:\Users\munna\AppData\Local\Temp\Mxt221
+[16:01.15.194]      
+[16:01.15.194]      Detecting BinExeDir
+[16:01.15.194]      --> BinExeDir= C:\Users\munna\AppData\Local\Temp\Mxt221\bin\
+[16:01.15.194]      
+[16:01.15.194]      BEGIN GetMobaseStream
+[16:01.15.194]      END GetMobaseStream
+[16:01.15.194]      Detecting MobaXVTHomeDir
+[16:01.15.196]      --> MobaXVTHomeDir= C:\Users\munna\AppData\Local\Temp\Mxt221\tmp\home_munna
+[16:01.15.196]      
+[16:01.15.196]      Skin detection
+[16:01.15.196]      Skin selected:
+[16:01.15.196]      Set Application Title
+[16:01.15.196]      Create SSH memory storage
+[16:01.15.196]      Clean custom shared sessions
+[16:01.15.224]      Adapting splash screen color to logo
+[16:01.15.224]      Detecting if another instance is running...
+[16:01.15.224]      No other instance is running. Cleaning potential files from any previous instance...
+[16:01.15.374]      Cleaning done.
+[16:01.15.374]      Detecting installed WSL and other bash-based distributions
+[16:01.15.374]      
+[16:01.15.374]      BEGIN ListWslDistrosFromRegistry(HKCU)
+[16:01.15.375]      END ListWslDistrosFromRegistry(HKCU)
+[16:01.15.375]      
+[16:01.15.375]      
+[16:01.15.375]      BEGIN ListWslDistrosFromRegistry(HKLM)
+[16:01.15.375]      END ListWslDistrosFromRegistry(HKLM)
+[16:01.15.375]      
+[16:01.15.375]      Loading skins
+[16:01.15.375]      
+[16:01.15.375]      Detected Default Windows theme setting
+[16:01.15.375]      Detected that MsWindows is in dark mode. Activating dark mode
+[16:01.15.375]      
+[16:01.15.375]  END Form1.Create
+[16:01.15.375]  
+[16:01.15.375]  
+[16:01.15.375]  CREATING Form4
+
+
+[16:01.20.928]  BEGIN Form4.Create
+[16:01.20.928]      BEGIN WaitForLoadFlatIconsThreads
+[16:01.20.928]      END WaitForLoadFlatIconsThreads
+[16:01.20.928]      BEGIN ReadCustomIcons
+[16:01.20.928]          No custom icon found.
+[16:01.20.928]      END ReadCustomIcons
+[16:01.20.928]      BEGIN LaunchGenerateStdListThreads
+[16:01.20.928]          BEGIN WaitForLoadFlatIconsThreads
+[16:01.20.928]          END WaitForLoadFlatIconsThreads
+[16:01.20.928]          BEGIN WaitForGenerateStdListThreads
+[16:01.20.928]          END WaitForGenerateStdListThreads
+[16:01.20.928]          Generating icons list 16 (real size 16)
+[16:01.20.928]          Generating icons list 22 (real size 22)
+[16:01.20.929]          Generating icons list 64 (real size 64)
+[16:01.20.929]      END LaunchGenerateStdListThreads
+[16:01.21.084]      BEGIN ApplyBlackThemeOnVisibleTsTabSheet(sTabSessions)
+[16:01.21.087]          BEGIN SetWindowTheme(TreeSessions)
+[16:01.21.090]          END SetWindowTheme(TreeSessions)
+[16:01.21.090]      END ApplyBlackThemeOnVisibleTsTabSheet(sTabSessions)
+[16:01.21.170]      NbPenguins = 4
+[16:01.21.170]      CoeffPenguins = 96
+[16:01.21.306]      BEGIN LoadBookmarksFromIni
+[16:01.21.307]          FindOrCreateTreeFolders() (1)
+[16:01.21.323]      END LoadBookmarksFromIni
+[16:01.21.323]      BEGIN LoadMacrosFromIni
+[16:01.21.323]      END LoadMacrosFromIni
+[16:01.21.324]      Autodetecting WSL sessions
+[16:01.21.324]      AutoDetecting WSL distribution "Ubuntu"
+[16:01.21.324]      BEGIN FindWslDistro(Ubuntu)
+[16:01.21.330]          result: C:\WINDOWS\Sysnative\wsl.exe -d ubuntu
+[16:01.21.330]      END FindWslDistro(ubuntu)
+[16:01.21.330]      AutoDetecting WSL distribution "Debian"
+[16:01.21.330]      BEGIN FindWslDistro(Debian)
+[16:01.21.332]          result: C:\WINDOWS\Sysnative\wsl.exe -d debian
+[16:01.21.332]      END FindWslDistro(debian)
+[16:01.21.333]      AutoDetecting WSL distribution "OpenSuse"
+[16:01.21.333]      BEGIN FindWslDistro(OpenSuse)
+[16:01.21.336]          result: C:\WINDOWS\Sysnative\wsl.exe -d opensuse
+[16:01.21.336]      END FindWslDistro(opensuse)
+[16:01.21.336]      AutoDetecting WSL distribution "SLES"
+[16:01.21.336]      BEGIN FindWslDistro(SLES)
+[16:01.21.341]          result: C:\WINDOWS\Sysnative\wsl.exe -d sles
+[16:01.21.341]      END FindWslDistro(sles)
+[16:01.21.341]      AutoDetecting WSL distribution "Kali"
+[16:01.21.341]      BEGIN FindWslDistro(Kali)
+[16:01.21.342]          result: C:\WINDOWS\Sysnative\wsl.exe -d kali
+[16:01.21.342]      END FindWslDistro(kali)
+[16:01.21.342]      Autodetecting PuTTY sessions
+[16:01.21.343]      Autodetecting SCRT sessions
+[16:01.21.344]      Autodetecting Exceed sessions
+[16:01.21.349]      Autodetecting MRemoteNG sessions
+[16:01.21.349]      Autodetecting SuperPuTTY sessions
+[16:01.21.390]      Loading buttons on the top toolbar
+[16:01.21.390]      Form4Create1
+[16:01.21.392]      Form4Create2
+[16:01.21.493]      BEGIN AdaptSidebarArrows
+[16:01.21.493]      END AdaptSidebarArrows
+[16:01.21.541]      Form4Create3
+[16:01.21.555]      GetMinWidth = 925
+[16:01.21.558]      GetMinHeight = 530
+[16:01.21.599]      Form4Create4
+[16:01.21.599]      IsNTFS(C:\) --> NTFS
+[16:01.21.599]      Slash drive is NTFS.
+[16:01.21.600]      Form4Create5
+[16:01.21.657]      Form4Create6
+[16:01.21.657]      Displaysidebarontheleft1Click: FormClick
+[16:01.21.779]      BEGIN AdaptSidebarArrows
+[16:01.21.779]      END AdaptSidebarArrows
+[16:01.21.779]      Form4Create7
+[16:01.21.779]      Form4Create8
+[16:01.21.779]      Form4Create9
+[16:01.21.779]      ShowButtonsbar1Click: FormClick
+[16:01.21.779]      Form4Create10
+[16:01.21.779]      Form4Create12
+[16:01.21.780]      SmallButtons1Click: FormClick
+[16:01.21.806]      GetMinWidth = 925
+[16:01.21.806]      GetMinHeight = 526
+[16:01.21.807]      Form4Create13
+[16:01.21.807]      Form4Create14
+[16:01.21.807]  END Form4.Create
+[16:01.21.807]  
+[16:01.21.807]  
+[16:01.21.807]  CREATING FormParams
+
+
+[16:01.24.378]  BEGIN TFormParams.FormCreate
+
+[16:01.25.269]  END TFormParams.FormCreate
+[16:01.25.269]  
+[16:01.25.269]  
+[16:01.25.269]  CREATING FormSessionEdit
+
+[16:01.26.418]  BEGIN FormSessionEdit.Create
+[16:01.26.418]      Pre-loading IP addresses list
+[16:01.26.418]      Building shells list
+[16:01.26.427]      Building WSL distributions list
+[16:01.26.775]      
+[16:01.26.775]      BEGIN Form4.FormActivate
+[16:01.26.775]          Form4.FormActivate0: First time window activation
+[16:01.26.777]          Form4.FormActivate1
+[16:01.26.777]          Form4.FormActivate2
+[16:01.26.779]          Form4.FormActivate3
+[16:01.26.781]          Form4.FormActivate4
+[16:01.26.781]          Form4.FormActivate5
+[16:01.26.781]          Form4.FormActivate6
+[16:01.26.781]          Registering global show/hide hotkey
+[16:01.26.781]          Registering global show/hide popup terminal
+[16:01.26.781]          BEGIN LoadParamsFromIni: C:\Users\munna\Desktop\MobaXterm.ini
+[16:01.26.781]              LoadParamsFromIni: GlobalFontName:=MobaFont
+[16:01.26.781]              LoadParamsFromIni: GlobalFontCharset:=0
+[16:01.26.781]              LoadParamsFromIni1
+[16:01.26.782]              LoadParamsFromIni2
+[16:01.26.786]              LoadParamsFromIni9
+[16:01.26.787]              LoadParamsFromIni10
+[16:01.26.787]              LoadParamsFromIni11
+[16:01.26.787]              LoadParamsFromIni12
+[16:01.26.787]              LoadParamsFromIni13
+[16:01.26.787]              LoadParamsFromIni14
+[16:01.26.787]              LoadParamsFromIni15
+[16:01.26.787]              LoadParamsFromIni16
+[16:01.26.787]          END LoadParamsFromIni
+[16:01.26.787]          Form4.FormActivate: OldMaximized:=Form4.WindowState
+[16:01.26.787]          Form4.FormActivate: TermImage.Canvas.Font.Assign(MobaFont)
+[16:01.26.787]          Form4.FormActivate: TermImage.Canvas.Font.Size:=10
+[16:01.26.787]          Form4.FormActivate: TermImage.Canvas.Font.Name:=
+[16:01.26.787]          Form4.FormActivate: Starting "GetMinHeight"
+[16:01.26.787]          GetMinHeight = 526
+[16:01.26.787]          Form4.FormActivate: Form4.Constraints.MinHeight:=526
+[16:01.26.787]          GetMinWidth = 925
+[16:01.26.787]          Form4.FormActivate: Form4.Constraints.MinWidth:=925
+[16:01.26.787]          Form4.FormActivate: Form4.Left:=189
+[16:01.26.787]          BEGIN GetNextAvailableX
+[16:01.26.788]          END GetNextAvailableX = 0
+[16:01.26.788]          
+[16:01.26.788]          CurrentX = 0
+[16:01.26.788]          ChDir(Form1.BaseDir): C:\Users\munna\AppData\Local\
+[16:01.26.788]          FirstParam:
+[16:01.26.788]          Launching NewTab
+[16:01.26.788]          
+[16:01.26.788]          BEGIN NEWTAB(home, 135, 0)
+[16:01.26.788]              NEWTAB: Application.ProcessMessages
+[16:01.26.829]              NEWTAB: Timer1_Disable
+[16:01.26.833]              BEGIN SetWindowTheme(TreeSessions)
+[16:01.26.833]              END SetWindowTheme(TreeSessions)
+[16:01.26.894]              BEGIN TFormXterm.FormResize
+[16:01.26.894]                  TFormXterm.FormResize: CenterBtnReattachTab
+[16:01.26.895]                  TFormXterm.FormResize: SplitModeResize
+[16:01.26.895]                  TFormXterm.FormResize: TabMax<=0. Exiting...
+[16:01.26.895]              END TFormXterm.FormResize
+[16:01.26.895]              BEGIN WMSize
+[16:01.26.895]                  BEGIN TFormXterm.FormResize
+[16:01.26.895]                      TFormXterm.FormResize: CenterBtnReattachTab
+[16:01.26.895]                      TFormXterm.FormResize: SplitModeResize
+[16:01.26.895]                      TFormXterm.FormResize: TabMax<=0. Exiting...
+[16:01.26.895]                  END TFormXterm.FormResize
+[16:01.26.895]              END WMSize
+[16:01.26.895]              NEWTAB: Verifying if max number of tabs has been reached...
+[16:01.26.895]              NEWTAB: Creating SFTPRecord...
+[16:01.26.898]              NEWTAB: Creating menu items and popup entries for new tab...
+[16:01.26.899]              NEWTAB: Trying to find OldIndice...
+[16:01.26.899]              NEWTAB: Cts1.BeginUpdate;
+[16:01.26.899]              NEWTAB: Creating new tab...
+[16:01.26.899]              NEWTAB:        Tab index: 0
+[16:01.26.899]              NEWTAB:        NumTerm  : 1
+[16:01.26.899]              NEWTAB:        Title    : Home
+[16:01.26.899]              NEWTAB:        Command  : home
+[16:01.26.899]              Cts1ActiveTabChanged: New index = 0
+[16:01.26.899]              NEWTAB: Cts1.EndUpdates
+
+
+[16:01.28.199]              NEWTAB: Changing tab index A = 0
+[16:01.28.200]              BEGIN WaitForAllThreads
+[16:01.28.200]              END WaitForAllThreads
+[16:01.28.200]              
+[16:01.28.200]              LaunchTabContent(home, Home);
+[16:01.28.200]              
+[16:01.28.200]              SetEnvironmentVariable(LOCALE, en_US.UTF-8)
+[16:01.28.202]              SetEnvironmentVariable(PATH, C:\Users\munna\AppData\Local\Temp\Mxt221\bin;C:\WINDOWS\;C:\WINDOWS\system32\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\munna\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\munna\AppData\Local\Programs\Python\Python310\;C:\Users\munna\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\sysnative\)
+[16:01.28.202]              MOBANOACL=onlyslash
+[16:01.28.202]              
+[16:01.28.202]              ShellExecute: mottynew.exe
+[16:01.28.202]              
+[16:01.28.202]              CreerSessionMoTTY(1, home, Home)
+[16:01.28.202]              Setting LOCALE=en_US.UTF-8
+[16:01.28.222]              CreerSessionMoTTY(-1, /bin/_TCPCapture.sh, TCPCapture)
+[16:01.28.222]              Setting LOCALE=en_US.UTF-8
+[16:01.28.324]              
+[16:01.28.324]              FindWindow()
+[16:01.28.324]              BEGIN MoTTY.SetParent
+[16:01.28.330]              END MoTTY.SetParent
+[16:01.28.330]              NEWTAB: Application.OnMessage:=AppMessage
+[16:01.28.331]              NEWTAB: Changing tab index C = 0
+[16:01.28.331]              NEWTAB: Launching DisplayCurrentTab...
+[16:01.28.331]              BEGIN DisplayCurrentTab
+[16:01.28.331]                  DisplayCurrentTab: FormClick
+[16:01.28.332]                  (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[16:01.28.332]                  (SSH-Browser) BEGIN ActiverPanel14
+[16:01.28.332]                  (SSH-Browser) BEGIN DesactiverPanel14
+[16:01.28.332]                  (SSH-Browser) END DesactiverPanel14
+[16:01.28.332]                  (SSH-Browser) END ActiverPanel14;
+[16:01.28.345]                  DisplayCurrentTab: Cts1.BeginUpdate;
+[16:01.28.345]                  DisplayCurrentTab: Cts1.EndUpdates
+[16:01.28.345]                  DisplayCurrentTab: Show selected tab
+[16:01.28.345]                  BEGIN ResizeTerminal
+[16:01.28.345]                  END ResizeTerminal
+[16:01.28.345]                  DisplayCurrentTab: Hide other tabs
+[16:01.28.345]                  DisplayCurrentTab: Adapting buttons enable/disable states
+[16:01.28.345]                  DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[16:01.28.351]                  DisplayCurrentTab: DistribuerLeFocus
+[16:01.28.551]                  BEGIN WMNewTab: 0
+[16:01.28.551]                      WMNewTab: FormClick
+[16:01.28.553]                      WMNewTab: LooseFocus
+[16:01.28.553]                  END WMNewTab: 0
+[16:01.28.553]                  BEGIN WMNewTab: 0
+[16:01.28.553]                      WMNewTab: FormClick
+[16:01.28.553]                      WMNewTab: LooseFocus
+[16:01.28.554]                  END WMNewTab: 0
+[16:01.28.554]                  BEGIN WMNewTab: 0
+[16:01.28.554]                      WMNewTab: FormClick
+[16:01.28.554]                      WMNewTab: LooseFocus
+[16:01.28.554]                  END WMNewTab: 0
+[16:01.28.554]                  BEGIN WMNewTab: 0
+[16:01.28.554]                      WMNewTab: FormClick
+[16:01.28.554]                      WMNewTab: LooseFocus
+[16:01.28.554]                  END WMNewTab: 0
+[16:01.28.832]              END DisplayCurrentTab
+[16:01.28.832]              NEWTAB: NewTab_ReEnable_Timer1
+[16:01.28.833]              NEWTAB: MajVerticalTabs
+[16:01.28.833]              NEWTAB: Cts1.Resize;
+[16:01.28.841]          END NEWTAB(home, 135, 0)
+[16:01.28.841]          
+[16:01.28.841]          
+[16:01.28.841]          
+[16:01.28.841]          
+[16:01.28.841]          +---------------------------------+
+[16:01.28.841]          | Main window activation: 57688841ms |
+[16:01.28.841]          +---------------------------------+
+[16:01.28.841]          
+[16:01.28.841]          
+[16:01.28.841]          
+[16:01.28.841]          Launching bookmarks();
+[16:01.28.841]          Launching sBitBtn7Click(sBitBtn7);
+[16:01.28.841]          
+[16:01.28.841]          BEGIN LaunchX11();
+[16:01.28.841]              BEGIN MobaThreadXressources.Execute(nil);
+[16:01.28.841]              END MobaThreadXressources.Execute(nil);
+[16:01.28.889]              BEGIN WMNewTab: 0
+[16:01.28.889]                  WMNewTab: FormClick
+[16:01.28.889]                  WMNewTab: LooseFocus
+[16:01.28.889]              END WMNewTab: 0
+[16:01.28.890]              BEGIN WMNewTab: 0
+[16:01.28.890]                  WMNewTab: FormClick
+[16:01.28.890]                  WMNewTab: LooseFocus
+[16:01.28.890]              END WMNewTab: 0
+
+
+[16:01.34.130]              BEGIN BtnNewSessionClick
+[16:01.34.130]                  BtnNewSessionClick: FormClick
+[16:01.34.137]                  BEGIN ChargerLaSession
+[16:01.34.137]                      ChargerLaSession1
+[16:01.34.243]                      ChargerLaSession2
+
+
+[16:01.36.756]                      BEGIN FormSessions.Btn0Click: 0
+[16:01.36.756]                          BEGIN LockControl(FormSessionEdit, Btn0Click)
+[16:01.36.756]                          END LockControl(FormSessionEdit, Btn0Click)
+[16:01.36.756]                          Loading defaults for new session type #0
+[16:01.36.756]                          BEGIN ChargerLePreset EMPTY_PRESETS
+[16:01.36.756]                              ChargerLaSession1
+[16:01.36.757]                          END ChargerLePreset
+[16:01.36.762]                          BEGIN UnlockControl(FormSessionEdit, Btn0Click)
+[16:01.36.762]                          END UnlockControl(FormSessionEdit, Btn0Click)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                 Windows Event Viewer: "Application"                | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2022-12-24 10:30:47 | SecurityCenter |     |    Windows Defender    |    SECURITY_PRODUCT_STATE_ON
+Info    | 2022-12-24 10:30:18 | Software Protection Platform Service |     |    2122-11-30T10:30:18Z    |    RulesEngine
+Info    | 2022-12-24 10:29:35 | VSS |     |    ?
+Info    | 2022-12-24 10:29:25 | Software Protection Platform Service | 
+Info    | 2022-12-24 10:29:11 | Microsoft-Windows-RestartManager |     |    0    |    2022-12-24T10:29:10.7334954Z
+Info    | 2022-12-24 10:29:11 | Microsoft-Windows-RestartManager |     |    0    |    1    |    4800500041007500640069006F005300770069007400630068000000    |    2
+Warning | 2022-12-24 10:29:11 | Microsoft-Windows-RestartManager |     |    0    |    133368    |    C:\Program Files (x86)\HP\HPAudioSwitch\HPAudioSwitch.exe    |    HPAudioSwitch    |    0    |    0    |    17    |    67108865    |    1
+Info    | 2022-12-24 10:29:10 | Microsoft-Windows-RestartManager |     |    0    |    2022-12-24T10:29:10.7334954Z
+Info    | 2022-12-24 10:26:44 | Microsoft-Windows-System-Restore |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6
+Info    | 2022-12-24 10:26:17 | VSS |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6\WINDOWS\softwaredistribution    |    *.*    |    WUA    |    
+
+Operation:
+   OnPostSnapshot event
+   PostSnapshot Event
+
+Context:
+   Execution Context: Shadow Copy Optimization Writer
+   Execution Context: Writer
+   Writer Class Id: {4dc3bdd4-ab48-4d07-adb0-3bee2926fd7f}
+   Writer Name: Shadow Copy Optimization Writer
+   Writer Instance ID: {97bbad22-fe01-4f7d-9ffb-7188d8236971}
+Info    | 2022-12-24 10:26:17 | VSS |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6\WINDOWS\softwaredistribution\Download    |    *.*    |    WUA    |    
+
+Operation:
+   OnPostSnapshot event
+   PostSnapshot Event
+
+Context:
+   Execution Context: Shadow Copy Optimization Writer
+   Execution Context: Writer
+   Writer Class Id: {4dc3bdd4-ab48-4d07-adb0-3bee2926fd7f}
+   Writer Name: Shadow Copy Optimization Writer
+   Writer Instance ID: {97bbad22-fe01-4f7d-9ffb-7188d8236971}
+Info    | 2022-12-24 10:26:17 | VSS |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6\WINDOWS\softwaredistribution\Download\fbdcb3d0e8e2d357868d9100881a61d1    |    *.*    |    WUA    |    
+
+Operation:
+   OnPostSnapshot event
+   PostSnapshot Event
+
+Context:
+   Execution Context: Shadow Copy Optimization Writer
+   Execution Context: Writer
+   Writer Class Id: {4dc3bdd4-ab48-4d07-adb0-3bee2926fd7f}
+   Writer Name: Shadow Copy Optimization Writer
+   Writer Instance ID: {97bbad22-fe01-4f7d-9ffb-7188d8236971}
+Info    | 2022-12-24 10:26:17 | VSS |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6\WINDOWS\softwaredistribution\Download\fbdcb3d0e8e2d357868d9100881a61d1\Metadata    |    *.*    |    WUA    |    
+
+Operation:
+   OnPostSnapshot event
+   PostSnapshot Event
+
+Context:
+   Execution Context: Shadow Copy Optimization Writer
+   Execution Context: Writer
+   Writer Class Id: {4dc3bdd4-ab48-4d07-adb0-3bee2926fd7f}
+   Writer Name: Shadow Copy Optimization Writer
+   Writer Instance ID: {97bbad22-fe01-4f7d-9ffb-7188d8236971}
+Info    | 2022-12-24 10:26:17 | VSS |     |    \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy6\WINDOWS\softwaredistribution\Download\fbdcb3d0e8e2d357868d9100881a61d1\Metadata\Windows11.0-KB5019980-x64    |    *.*    |    WUA    |    
+
+Operation:
+   OnPostSnapshot event
+   PostSnapshot Event
+
+Context:
+   Execution Context: Shadow Copy Optimization Writer
+   Execution Context: Writer
+   Writer Class Id: {4dc3bdd4-ab48-4d07-adb0-3bee2926fd7f}
+   Writer Name: Shadow Copy Optimization Writer
+   Writer Instance ID: {97bbad22-fe01-4f7d-9ffb-7188d8236971}
+Info    | 2022-12-24 10:24:06 | System Restore |     |    C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2180_none_7e328fe47c714aab\TiWorker.exe -Embedding    |    Windows Modules Installer
+Info    | 2022-12-24 10:22:39 | Software Protection Platform Service |     |    2122-11-30T10:22:39Z    |    RulesEngine
+Info    | 2022-12-24 10:22:08 | Software Protection Platform Service | 
+Info    | 2022-12-24 10:21:25 | Software Protection Platform Service |     |    2122-11-30T10:21:25Z    |    RulesEngine
+Info    | 2022-12-24 10:21:10 | SecurityCenter |     |    Windows Defender    |    SECURITY_PRODUCT_STATE_ON
+Info    | 2022-12-24 10:20:51 | Software Protection Platform Service | 
+Info    | 2022-12-24 10:14:51 | Software Protection Platform Service |     |    2122-11-30T10:14:51Z    |    RulesEngine
+Info    | 2022-12-24 10:14:16 | Software Protection Platform Service | 
+Warning | 2022-12-24 10:04:22 | Microsoft-Windows-PerfProc |     |    \BaseNamedObjects\WmiProviderSubSystemHostJob    |    997
+Info    | 2022-12-24 10:00:12 | Software Protection Platform Service |     |    2122-11-30T10:00:11Z    |    RulesEngine
+Info    | 2022-12-24 09:59:40 | Software Protection Platform Service | 
+Info    | 2022-12-24 09:57:14 | iBtSiva |     |    iBtSiva    |    Siva worker elapsed
+Warning | 2022-12-24 09:56:42 | ESENT |     |    taskhostw    |    119736,R,98    |    WebCacheLocal:     |    C:\Users\munna\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat    |    32768
+Info    | 2022-12-24 09:56:41 | igfxCUIService2.0.0.0 |     |    Received Post Shell Event 17
+
+Info    | 2022-12-24 09:56:41 | Wlclntfy |     |    SessionEnv
+Info    | 2022-12-24 09:56:40 | igfxCUIService2.0.0.0 |     |    Logon: 17
+
+Info    | 2022-12-24 09:56:40 | igfxCUIService2.0.0.0 |     |    Log on event received User1
+
+Info    | 2022-12-24 09:56:39 | SynTPEnhService |     |    SynTPEnhService    |    Log on New Session:17 Launch Enh
+Info    | 2022-12-24 09:56:39 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed User Log on
+Info    | 2022-12-24 09:56:37 | Wlclntfy |     |    SessionEnv
+Info    | 2022-12-24 09:56:14 | iBtSiva |     |    iBtSiva    |    Siva worker starting
+Info    | 2022-12-24 09:56:10 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 09:56:10 | Service1 |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 09:56:10 | HPSupportSolutionsFrameworkService |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 09:56:10 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 09:56:09 | Service1 |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 09:56:09 | HPSupportSolutionsFrameworkService |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 07:47:47 | SynTPEnhService |     |    SynTPEnhService    |    SessionId:16 no longer exist remove it
+
+Info    | 2022-12-24 07:47:43 | HP Comm Recovery |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 07:47:43 | Service1 |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 07:47:43 | HPSupportSolutionsFrameworkService |     |    PowerEvent handled successfully by the service.
+Info    | 2022-12-24 07:47:41 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed: Console connect
+Info    | 2022-12-24 07:47:41 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed: Console disconnect
+Info    | 2022-12-24 07:47:40 | Wlclntfy |     |    SessionEnv
+Info    | 2022-12-24 07:47:39 | SynTPEnhService |     |    SynTPEnhService    |    Session Changed User Log off
+Info    | 2022-12-24 07:47:39 | Wlclntfy |     |    WSearch
+Info    | 2022-12-24 07:47:39 | igfxCUIService2.0.0.0 |     |     Logoff: 16
+
+Info    | 2022-12-24 07:47:39 | igfxCUIService2.0.0.0 |     |     Logoff: Test
+
+Info    | 2022-12-24 07:47:37 | SynTPEnhService |     |    SynTPEnhService    |    Enh Exit with Exit Code: 0xc000026b, ReLanuch Enh for Session:16
+Info    | 2022-12-24 07:47:32 | SynTPEnhService |     |    SynTPEnhService    |    Enh Exit with Exit Code: 0x40010004, ReLanuch Enh for Session:16
+Info    | 2022-12-24 07:47:32 | Desktop Window Manager | 
+Info    | 2022-12-24 07:40:24 | Software Protection Platform Service |     |    2122-11-30T07:40:22Z    |    RulesEngine
+Info    | 2022-12-24 07:39:52 | Software Protection Platform Service | 
+Info    | 2022-12-24 07:39:26 | Windows Error Reporting |     |    1651212645633193039    |    5    |    UpdateAgentDiag    |    Not available    |    0    |    3    |    X    |    5    |    0xC1900104    |    amd64    |    19044    |    vb_release    |    22621    |    ni_release_svc_prod1    |    819    |    
+\\?\C:\WINDOWS\Logs\MoSetup\UpdateAgent.log
+\\?\C:\WINDOWS\Logs\MoSetup\ActionList.xml
+\\?\C:\WINDOWS\Logs\MoSetup\DeviceInventory.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERE507.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERE5D3.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERE91E.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERE9BB.tmp.txt    |    \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_3_46bb5b4a2d46599a8c2dcb4d2ce4c2a24eb9d_00000000_56701221-43b1-456a-932d-29539c192484    |    ?    |    0    |    56701221-43b1-456a-932d-29539c192484    |    268435456    |    75d9b8519ee12c93e6ea49271799744f    |    0
+Warning | 2022-12-24 07:35:39 | Microsoft-Windows-PerfProc |     |    \BaseNamedObjects\WmiProviderSubSystemHostJob    |    997
+Warning | 2022-12-24 07:29:46 | ESENT |     |    taskhostw    |    191172,R,98    |    WebCacheLocal:     |    C:\Users\munna\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat    |    32768
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                   Windows Event Viewer: "System"                   | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2022-12-24 10:31:12 | Service Control Manager |     |    MpKsl5179b3d6    |    C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{5696C963-822E-44FE-A380-9DF05D3B01A4}\MpKslDrv.sys    |    kernel mode driver    |    demand start    |    ?
+Info    | 2022-12-24 10:30:46 | Microsoft-Windows-WindowsUpdateClient |     |    Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.990.0)    |    {42529714-a162-417b-a212-626bc72373ed}    |    200    |    {7971f918-a847-4430-9279-4a52d1efe18d}
+Info    | 2022-12-24 10:30:45 | Service Control Manager |     |    MpKslafe675e5    |    C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A49845F-6194-40A7-BD36-A5E980E7CA10}\MpKslDrv.sys    |    kernel mode driver    |    demand start    |    ?
+Info    | 2022-12-24 10:29:28 | Microsoft-Windows-WindowsUpdateClient |     |    Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.381.990.0)    |    {42529714-a162-417b-a212-626bc72373ed}    |    200
+Info    | 2022-12-24 10:24:18 | Microsoft-Windows-Ntfs |     |    Windows    |    \Device\HarddiskVolumeShadowCopy6    |    0
+Info    | 2022-12-24 10:22:14 | Service Control Manager |     |    Windows Modules Installer    |    demand start    |    auto start    |    TrustedInstaller
+Info    | 2022-12-24 10:22:09 | Microsoft-Windows-WindowsUpdateClient |     |    2022-12 Cumulative Update for .NET Framework 3.5, 4.8 and 4.8.1 for Windows 10 Version 21H2 for x64 (KB5021088)    |    {9cb4eaaf-1485-435a-9198-2b452f1dc644}    |    200
+Info    | 2022-12-24 10:22:05 | Microsoft-Windows-WindowsUpdateClient |     |    Windows Malicious Software Removal Tool x64 - v5.108 (KB890830)    |    {f444ac52-95a6-4a47-95bb-51c2694120fb}    |    200    |    {7971f918-a847-4430-9279-4a52d1efe18d}
+Info    | 2022-12-24 10:20:56 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2022-12-24 10:06:25 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2022-12-24 10:04:16 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Info    | 2022-12-24 09:59:26 | Microsoft-Windows-Kernel-General |     |    41    |    \??\C:\WINDOWS\System32\config\COMPONENTS    |    100005    |    7787
+Warning | 2022-12-24 09:56:42 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 09:56:42 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 09:56:42 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 09:56:42 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2022-12-24 09:56:37 | Microsoft-Windows-Winlogon |     |    17    |    S-1-5-21-240760068-2781571205-3426696878-1001
+Info    | 2022-12-24 09:56:13 | Microsoft-Windows-Power-Troubleshooter |     |    2022-12-24T07:47:41.2665180Z    |    2022-12-24T09:56:09.5455116Z    |    15601    |    1053    |    182    |    4698    |    12063    |    13088    |    282432    |    1912619265    |    6    |    5    |    0    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    4536
+Info    | 2022-12-24 09:56:10 | BTHUSB |     |    ?
+Info    | 2022-12-24 09:56:09 | Microsoft-Windows-Kernel-Boot |     |    1    |    
+Info    | 2022-12-24 09:56:09 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2022-12-24 09:56:09 | Microsoft-Windows-Kernel-Boot |     |    0
+Info    | 2022-12-24 09:56:09 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2022-12-24 09:56:09 | Microsoft-Windows-Kernel-Boot |     |    9251830667989    |    4434    |    4698    |    8472    |    8474
+Warning | 2022-12-24 09:56:09 | Microsoft-Windows-Time-Service |     |    No such host is known. (0x80072AF9)    |    15    |    time.windows.com,0x9
+Info    | 2022-12-24 09:56:08 | Microsoft-Windows-Kernel-General |     |    2022-12-24T09:56:08.5000000Z    |    2022-12-24T07:47:57.4580080Z    |    2    |    ?    |    4
+Info    | 2022-12-24 07:47:57 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    5    |    1601-01-01T00:00:00.0000000Z    |    1601-01-01T00:00:00.0000000Z    |    0    |    0
+Info    | 2022-12-24 07:47:46 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    4    |    0    |    35
+Info    | 2022-12-24 07:47:41 | Microsoft-Windows-Kernel-Power |     |    53    |    \Device\HarddiskVolume3\Windows\System32\winlogon.exe    |    3    |    2
+Info    | 2022-12-24 07:47:41 | Service Control Manager |     |    Touch Keyboard and Handwriting Panel Service    |    demand start    |    auto start    |    TabletInputService
+Info    | 2022-12-24 07:47:41 | Win32k |     |    ?
+Info    | 2022-12-24 07:47:40 | Microsoft-Windows-Winlogon |     |    16    |    S-1-5-21-240760068-2781571205-3426696878-1001
+Error   | 2022-12-24 07:47:35 | DCOM |     |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+Error   | 2022-12-24 07:47:35 | DCOM |     |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+Error   | 2022-12-24 07:47:35 | DCOM |     |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+Info    | 2022-12-24 07:47:31 | Service Control Manager |     |    Touch Keyboard and Handwriting Panel Service    |    auto start    |    demand start    |    TabletInputService
+Info    | 2022-12-24 07:47:30 | User32 |     |    Explorer.EXE    |    LAPTOP-OPC1DSH8    |    Other (Unplanned)    |    0x0    |    power off    |    ?    |    LAPTOP-OPC1DSH8\munna
+Info    | 2022-12-24 07:45:17 | Virtual Disk Service |     |    @2010001
+Info    | 2022-12-24 07:39:54 | Microsoft-Windows-WindowsUpdateClient |     |    Windows Malicious Software Removal Tool x64 - v5.108 (KB890830)    |    {f444ac52-95a6-4a47-95bb-51c2694120fb}    |    200
+Error   | 2022-12-24 07:39:43 | Microsoft-Windows-WindowsUpdateClient |     |    0xc1900104    |    Windows 11, version 22H2    |    {73275c4f-b96a-4195-89e0-cda78aeb6a52}    |    1    |    {8b24b027-1dee-babb-9a95-3517dfb9c552}
+Info    | 2022-12-24 07:37:49 | Service Control Manager |     |    Background Intelligent Transfer Service    |    auto start    |    demand start    |    BITS
+Info    | 2022-12-24 07:33:51 | Service Control Manager |     |    Background Intelligent Transfer Service    |    demand start    |    auto start    |    BITS
+Warning | 2022-12-24 07:29:44 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 07:29:44 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 07:29:44 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-12-24 07:29:44 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2022-12-24 07:29:37 | Microsoft-Windows-Winlogon |     |    16    |    S-1-5-21-240760068-2781571205-3426696878-1001
+Info    | 2022-12-24 07:26:26 | Microsoft-Windows-Power-Troubleshooter |     |    2022-12-24T07:00:53.2824000Z    |    2022-12-24T07:26:23.5404596Z    |    15192    |    1044    |    181    |    4620    |    11173    |    12234    |    260604    |    1912619265    |    6    |    5    |    0    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    5619
+Info    | 2022-12-24 07:26:24 | BTHUSB |     |    ?
+Info    | 2022-12-24 07:26:23 | Microsoft-Windows-Kernel-Boot |     |    1    |    
+Info    | 2022-12-24 07:26:23 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2022-12-24 07:26:23 | Microsoft-Windows-Kernel-Boot |     |    0
+Info    | 2022-12-24 07:26:23 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2022-12-24 07:26:23 | Microsoft-Windows-Kernel-Boot |     |    9257904018845    |    4356    |    4620    |    8214    |    8215
+Warning | 2022-12-24 07:26:23 | Microsoft-Windows-Time-Service |     |    No such host is known. (0x80072AF9)    |    15    |    time.windows.com,0x9
+Info    | 2022-12-24 07:26:22 | Microsoft-Windows-Kernel-General |     |    2022-12-24T07:26:22.5000000Z    |    2022-12-24T07:01:09.2326997Z    |    2    |    ?    |    4
+Info    | 2022-12-24 07:01:09 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    5    |    1601-01-01T00:00:00.0000000Z    |    1601-01-01T00:00:00.0000000Z    |    0    |    0
+Info    | 2022-12-24 07:01:00 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    4    |    0    |    33
+Info    | 2022-12-24 07:00:53 | Microsoft-Windows-Kernel-Power |     |    53    |    \Device\HarddiskVolume3\Windows\System32\winlogon.exe    |    3    |    2
+Info    | 2022-12-24 07:00:53 | Service Control Manager |     |    Touch Keyboard and Handwriting Panel Service    |    demand start    |    auto start    |    TabletInputService
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[16:01.36.860]                          !!!! EXCEPTION EListError:  List index out of bounds (19)
+[16:01.36.860]                          - Form4.Indice: 0
+[16:01.36.860]                          - Form4.TabMax: 1
+[16:01.36.860]                          - Form4.Cts1.ActiveTabIndex: 0
+[16:01.36.860]                          - Form4.Cts1.Tabs.Count: 1
